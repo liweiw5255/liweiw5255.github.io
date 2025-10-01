@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Clemson University, North Charleston, SC, USA 2024
-* B.S. in Information and Computation Science, Southwest Forestry University, Kunming, Yunnan, China, 2018
+* Ph.D in Computer Science, Clemson University, 2024
+* B.S. in Information and Computation Science, Southwest Forestry University, 2018
 
 Work experience
 ======
